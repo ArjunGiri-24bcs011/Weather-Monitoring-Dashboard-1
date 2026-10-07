@@ -1,0 +1,6 @@
+{
+  "name": "Weather Monitoring Dashboard",
+  "description": "A clean and simple weather monitoring dashboard showing current weather, details, 5-day forecast, and city search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
